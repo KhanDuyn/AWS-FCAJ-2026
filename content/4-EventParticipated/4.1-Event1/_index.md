@@ -197,6 +197,6 @@ Through the event, I gained more insight into applying AWS services in system bu
 
 ## Event Photos
 
-![AWS FCAJ Community Day - Speaker Presentation\](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.1-Event1/event1.jpg)
+![AWS FCAJ Community Day - Speaker Presentation](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.1-Event1/event1.jpg)
 
-![AWS FCAJ Community Day - Event Activity\](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.1-Event1/event1.1.jpg)
+![AWS FCAJ Community Day - Event Activity](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.1-Event1/event1.1.jpg)

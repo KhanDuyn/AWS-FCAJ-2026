@@ -10,13 +10,13 @@ In this section, we will deploy the entire application (including the static fro
 
 ### Visual Reference
 
-![Create S3 bucket\](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image1.png)
+![Create S3 bucket](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image1.png)
 
-![Create CloudFront distribution\](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image8.png)
+![Create CloudFront distribution](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image8.png)
 
-![Launch EC2 backend instance\](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image15.png)
+![Launch EC2 backend instance](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image15.png)
 
-![Verify SES sender identity\](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image25.png)
+![Verify SES sender identity](https://khanduyn.github.io/AWS-FCAJ-2026/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image25.png)
 
 ---
 

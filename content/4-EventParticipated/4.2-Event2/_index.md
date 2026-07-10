@@ -197,4 +197,4 @@ Through the event, attendees gained more knowledge about system architecture, Cl
 
 ## Event Photos
 
-![AWS Study Group Meetup\](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.2-Event2/event2.jpg)
+![AWS Study Group Meetup](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.2-Event2/event2.jpg)

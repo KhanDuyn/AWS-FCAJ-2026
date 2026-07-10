@@ -197,4 +197,4 @@ Thông qua sự kiện, người tham dự có thêm kiến thức về kiến t
 
 ## Hình ảnh sự kiện
 
-![AWS Study Group Meetup\](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.2-Event2/event2.jpg)
+![AWS Study Group Meetup](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.2-Event2/event2.jpg)
