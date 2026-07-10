@@ -197,7 +197,7 @@ Thông qua sự kiện, mình có thêm hiểu biết về việc ứng dụng c
 
 ## Hình ảnh sự kiện
 
-![AWS FCAJ Community Day - Diễn giả thuyết trình](/images/4-EventParticipated/4.1-Event1/event1.jpg)
+![AWS FCAJ Community Day - Diễn giả thuyết trình\](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.1-Event1/event1.jpg)
 
-![AWS FCAJ Community Day - Hoạt động sự kiện](/images/4-EventParticipated/4.1-Event1/event1.1.jpg)
+![AWS FCAJ Community Day - Hoạt động sự kiện\](https://khanduyn.github.io/AWS-FCAJ-2026/images/4-EventParticipated/4.1-Event1/event1.1.jpg)
 

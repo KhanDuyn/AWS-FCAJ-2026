@@ -44,7 +44,7 @@ The system uses a 3-tier AWS architecture:
 
 ### 3.1 Architecture Snapshots
 
-![CauLongVui AWS architecture](/images/2-Proposal/caulongvui-architecture.jpg)
+![CauLongVui AWS architecture\](https://khanduyn.github.io/AWS-FCAJ-2026/images/2-Proposal/caulongvui-architecture.jpg)
 
 ### 3.2 Core AWS Services
 
@@ -57,4 +57,3 @@ The system uses a 3-tier AWS architecture:
 - **Amazon RDS Multi-AZ** provides a managed and highly available SQL Server database.
 - **NAT Gateway** lets backend instances call external services securely.
 - **Amazon SES** sends booking confirmations and invoices.
-

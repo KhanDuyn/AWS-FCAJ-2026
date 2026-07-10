@@ -44,7 +44,7 @@ Hệ thống sử dụng kiến trúc AWS 3 lớp:
 
 ### 3.1. Sơ đồ kiến trúc
 
-![Kiến trúc AWS CauLongVui](/images/2-Proposal/caulongvui-architecture.jpg)
+![Kiến trúc AWS CauLongVui\](https://khanduyn.github.io/AWS-FCAJ-2026/images/2-Proposal/caulongvui-architecture.jpg)
 
 ### 3.2. Các dịch vụ AWS chính
 
@@ -57,5 +57,4 @@ Hệ thống sử dụng kiến trúc AWS 3 lớp:
 - **Amazon RDS Multi-AZ** cung cấp cơ sở dữ liệu SQL Server được quản lý và sẵn sàng cao.
 - **NAT Gateway** cho phép backend gọi dịch vụ bên ngoài an toàn.
 - **Amazon SES** gửi email xác nhận đặt sân và hóa đơn.
-
 
