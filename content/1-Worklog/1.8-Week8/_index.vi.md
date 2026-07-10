@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 8"
 date: 2026-07-06
-weight: 1
+weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.8. </b> "
 - Nắm được EC2 Auto Scaling, Load Balancer, Target Group và Auto Scaling Group ở mức thực hành.
 - Hiểu CloudWatch Metrics, Logs, Alarms, Dashboard và cách giám sát tài nguyên.
 - Có thêm kiến thức tổng quan về DynamoDB, ElastiCache, Route 53, CloudFront, Lambda@Edge và kiến trúc web trên AWS.
-

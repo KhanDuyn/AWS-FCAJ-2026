@@ -1,7 +1,7 @@
 ---
 title: "Week 9 Worklog"
 date: 2026-07-06
-weight: 1
+weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.9. </b> "
 - Reviewed content directly related to the project such as IAM, VPC, EC2, S3, RDS, and CloudWatch.
 - Repracticed necessary labs to prepare for real project deployment.
 - Discussed with the team, defined the project scope, and designed the initial architecture diagram.
-

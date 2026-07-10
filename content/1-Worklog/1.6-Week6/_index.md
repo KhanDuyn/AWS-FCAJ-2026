@@ -1,7 +1,7 @@
 ---
 title: "Week 6 Worklog"
 date: 2026-07-06
-weight: 1
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.6. </b> "
 - Understood the main concepts of Amazon S3 such as bucket, object, storage, and storage use cases.
 - Practiced configuring static website hosting on S3 and testing website access.
 - Reviewed EC2, S3, and IAM Role; learned how to clean up unnecessary resources to avoid unexpected costs.
-

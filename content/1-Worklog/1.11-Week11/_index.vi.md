@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 11"
 date: 2026-07-06
-weight: 2
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.11. </b> "
 - Kiểm tra tiến độ project, tổng hợp nội dung đã nghiên cứu và xác định phần cần chỉnh sửa.
 - Rà soát, chỉnh sửa architecture diagram theo AWS icons và bổ sung luồng user/web/database.
 - Tham khảo template/tài liệu mẫu, hoàn thiện worklog và kiểm tra lại các bước triển khai website.
-

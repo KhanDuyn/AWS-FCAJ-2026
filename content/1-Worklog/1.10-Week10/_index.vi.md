@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 10"
 date: 2026-07-06
-weight: 2
+weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.10. </b> "
 - Phân tích luồng hoạt động của website và xác định các dịch vụ AWS cần dùng cho project.
 - Chuẩn bị môi trường triển khai, kiểm tra source code và rà soát cấu hình deploy lên EC2.
 - Nghiên cứu kết nối database, lưu trữ file bằng S3 và cập nhật tài liệu project.
-

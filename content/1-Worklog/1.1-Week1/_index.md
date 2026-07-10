@@ -21,4 +21,3 @@ pre: " <b> 1.1. </b> "
 - Completed AWS account creation and verification, and understood how to use Free Tier and AWS Credits.
 - Understood how to manage costs with AWS Budgets, configure alerts, and monitor resource usage.
 - Gained an overview of AWS Support, cloud computing, and the main AWS service categories.
-

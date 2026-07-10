@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 3"
 date: 2026-07-06
-weight: 1
+weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.3. </b> "
 - Nắm được tư duy tối ưu chi phí khi thực hành trên tài khoản AWS cá nhân.
 - Hiểu IAM User, Group, Policy, Role và nguyên tắc phân quyền trong AWS.
 - Thực hành tạo User, Group, Policy, Role và bắt đầu học nền tảng VPC.
-

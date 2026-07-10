@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 6"
 date: 2026-07-06
-weight: 1
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.6. </b> "
 - Hiểu các khái niệm chính của Amazon S3 như bucket, object, storage và use case lưu trữ.
 - Thực hành cấu hình static website hosting trên S3 và kiểm tra truy cập website.
 - Ôn lại EC2, S3 và IAM Role; biết cách cleanup tài nguyên không cần thiết để tránh phát sinh chi phí.
-

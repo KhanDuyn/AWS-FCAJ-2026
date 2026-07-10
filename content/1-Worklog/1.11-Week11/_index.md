@@ -1,7 +1,7 @@
 ---
 title: "Week 11 Worklog"
 date: 2026-07-06
-weight: 2
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.11. </b> "
 - Checked project progress, summarized the studied content, and identified parts that need revision.
 - Reviewed and revised the architecture diagram using AWS icons and added the user/web/database flow.
 - Referenced sample templates/documents, completed the worklog, and reviewed the website deployment steps.
-

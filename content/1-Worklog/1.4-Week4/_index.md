@@ -1,7 +1,7 @@
 ---
 title: "Week 4 Worklog"
 date: 2026-07-06
-weight: 1
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.4. </b> "
 - Understood important VPC concepts such as CIDR, subnet, public/private subnet, and network connection flows.
 - Understood Security Group, Network ACL, and how to control access for EC2 in a VPC.
 - Completed the basic lab for creating VPC, subnet, Internet Gateway, Route Table, Security Group, and EC2.
-

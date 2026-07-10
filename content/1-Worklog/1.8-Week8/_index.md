@@ -1,7 +1,7 @@
 ---
 title: "Week 8 Worklog"
 date: 2026-07-06
-weight: 1
+weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.8. </b> "
 - Gained hands-on understanding of EC2 Auto Scaling, Load Balancer, Target Group, and Auto Scaling Group.
 - Understood CloudWatch Metrics, Logs, Alarms, Dashboard, and resource monitoring.
 - Gained overview knowledge of DynamoDB, ElastiCache, Route 53, CloudFront, Lambda@Edge, and web architecture on AWS.
-

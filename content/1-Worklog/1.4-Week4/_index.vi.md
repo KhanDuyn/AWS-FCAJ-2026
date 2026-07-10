@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 4"
 date: 2026-07-06
-weight: 1
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.4. </b> "
 - Hiểu các khái niệm quan trọng của VPC như CIDR, subnet, public/private subnet và luồng kết nối mạng.
 - Nắm được Security Group, Network ACL và cách kiểm soát truy cập cho EC2 trong VPC.
 - Hoàn thành lab tạo VPC, subnet, Internet Gateway, Route Table, Security Group và EC2 cơ bản.
-

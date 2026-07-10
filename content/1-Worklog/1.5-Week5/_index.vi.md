@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 5"
 date: 2026-07-06
-weight: 1
+weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.5. </b> "
 - Hiểu các khái niệm nền tảng của EC2 như AMI, Instance Type, metadata và Auto Scaling.
 - Thực hành launch EC2, cấu hình Security Group, SSH/RDP, Elastic IP và EBS.
 - Nắm được cách dùng IAM Role để cấp quyền cho EC2 truy cập dịch vụ AWS an toàn hơn.
-

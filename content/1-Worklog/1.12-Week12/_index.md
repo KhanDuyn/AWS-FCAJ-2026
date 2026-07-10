@@ -1,7 +1,7 @@
 ---
 title: "Week 12 Worklog"
 date: 2026-07-09
-weight: 2
+weight: 12
 chapter: false
 pre: " <b> 1.12 </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.12 </b> "
 - Completed the blog, event content, worklog, and documentation describing the AWS deployment process.
 - Revised the project based on feedback, added website deployment steps on AWS, and updated the illustration diagram.
 - Summarized project results, reviewed final documents, and prepared presentation content.
-

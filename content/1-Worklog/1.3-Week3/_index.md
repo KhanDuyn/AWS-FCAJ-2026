@@ -1,7 +1,7 @@
 ---
 title: "Week 3 Worklog"
 date: 2026-07-06
-weight: 1
+weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.3. </b> "
 - Understood cost optimization thinking when practicing on a personal AWS account.
 - Understood IAM User, Group, Policy, Role, and permission principles in AWS.
 - Practiced creating User, Group, Policy, Role, and started learning VPC fundamentals.
-

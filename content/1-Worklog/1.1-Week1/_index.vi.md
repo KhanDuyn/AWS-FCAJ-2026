@@ -21,4 +21,3 @@ pre: " <b> 1.1. </b> "
 - Hoàn thành tạo và xác thực tài khoản AWS, nắm được cách sử dụng Free Tier và AWS Credits.
 - Hiểu cách quản lý chi phí bằng AWS Budgets, cấu hình cảnh báo và theo dõi mức sử dụng tài nguyên.
 - Nắm tổng quan về AWS Support, cloud computing và các nhóm dịch vụ chính của AWS.
-

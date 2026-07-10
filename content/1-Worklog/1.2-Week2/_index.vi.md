@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 2"
 date: 2026-07-06
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.2. </b> "
 - Hiểu AWS Global Infrastructure gồm Region, Availability Zone và Edge Location.
 - Biết cách sử dụng draw.io và AWS icons để trình bày sơ đồ kiến trúc cơ bản.
 - Nắm được hướng triển khai website lên EC2 và cách thao tác trên AWS Management Console.
-

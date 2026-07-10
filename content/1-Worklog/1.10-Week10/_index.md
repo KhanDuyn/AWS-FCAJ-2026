@@ -1,7 +1,7 @@
 ---
 title: "Week 10 Worklog"
 date: 2026-07-06
-weight: 2
+weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.10. </b> "
 - Analyzed the website workflow and identified the AWS services needed for the project.
 - Prepared the deployment environment, checked source code, and reviewed deployment configuration to EC2.
 - Studied database connection and file storage using S3, and updated project documentation.
-

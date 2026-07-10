@@ -1,7 +1,7 @@
 ---
 title: "Week 7 Worklog"
 date: 2026-07-06
-weight: 1
+weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.7. </b> "
 - Learned how to use AWS Cloud9 and AWS CLI to work with and manage AWS resources.
 - Understood the basic components of Amazon RDS such as DB Instance, DB Engine, Security Group, and database connection.
 - Practiced creating RDS, configuring access permissions, and testing application/database connection.
-

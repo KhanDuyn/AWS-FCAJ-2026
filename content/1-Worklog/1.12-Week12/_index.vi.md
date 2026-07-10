@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 12"
 date: 2026-07-09
-weight: 2
+weight: 12
 chapter: false
 pre: " <b> 1.12 </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.12 </b> "
 - Hoàn thiện blog, event, worklog và tài liệu mô tả quá trình triển khai AWS.
 - Chỉnh sửa project theo góp ý, bổ sung các bước deploy website lên AWS và cập nhật sơ đồ minh họa.
 - Tổng hợp kết quả project, rà soát tài liệu cuối cùng và chuẩn bị nội dung trình bày.
-

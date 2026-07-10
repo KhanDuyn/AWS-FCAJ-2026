@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 9"
 date: 2026-07-06
-weight: 1
+weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.9. </b> "
 - Ôn lại các nội dung liên quan trực tiếp đến project như IAM, VPC, EC2, S3, RDS và CloudWatch.
 - Thực hành lại các lab cần thiết để chuẩn bị triển khai project thực tế.
 - Thảo luận nhóm, xác định phạm vi đề tài và thiết kế architecture diagram ban đầu.
-

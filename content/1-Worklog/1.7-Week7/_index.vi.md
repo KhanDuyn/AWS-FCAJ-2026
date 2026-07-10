@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 7"
 date: 2026-07-06
-weight: 1
+weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.7. </b> "
 - Biết sử dụng AWS Cloud9 và AWS CLI để thao tác, quản lý tài nguyên AWS.
 - Hiểu các thành phần cơ bản của Amazon RDS như DB Instance, DB Engine, Security Group và kết nối database.
 - Thực hành tạo RDS, cấu hình quyền truy cập và kiểm tra kết nối ứng dụng/database.
-

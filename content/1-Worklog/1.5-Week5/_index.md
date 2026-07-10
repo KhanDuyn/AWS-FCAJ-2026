@@ -1,7 +1,7 @@
 ---
 title: "Week 5 Worklog"
 date: 2026-07-06
-weight: 1
+weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
@@ -21,4 +21,3 @@ pre: " <b> 1.5. </b> "
 - Understood EC2 fundamentals such as AMI, Instance Type, metadata, and Auto Scaling.
 - Practiced launching EC2, configuring Security Group, SSH/RDP, Elastic IP, and EBS.
 - Understood how to use IAM Role to grant EC2 safer access to AWS services.
-
