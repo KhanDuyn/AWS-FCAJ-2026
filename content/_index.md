@@ -8,11 +8,11 @@ chapter: false
     
 # Internship Report
 ### Student Information:
-&emsp; **Full Name:** Phan Thanh Phong
+&emsp; **Full Name:** Trần Khánh Duyên
 
-&emsp; **Phone Number:** 0776762368 
+&emsp; **Phone Number:** 0335124542 
 
-&emsp; **Email:** [phanphong0608@gmail.com]
+&emsp; **Email:** [trankhanhduyen.work@gmail.com]
 
 &emsp; **University:** Ho Chi Minh City University of Technology 
 
@@ -26,7 +26,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2025 to 12/07/2025
 
-![Your profile picture](images/hinhdaidien.jpg)
+![Your profile picture](https://khanduyn.github.io/AWS-FCAJ-2026/images/anhchandung.jpg)
 
 ### Report Content
 

@@ -7,11 +7,11 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Phan Thanh Phong
+&emsp; **Họ và tên:** Trần Khánh Duyên 
 
-&emsp; **Số điện thoại:** 0776762368
+&emsp; **Số điện thoại:** 0335124542
 
-&emsp; **Email:** [phanphong0608@gmail.com]
+&emsp; **Email:** [trankhanhduyen.work@gmail.com]
 
 &emsp; **Trường:** Đại học Công nghệ TP.HCM (Hutech)
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2025 đến ngày 12/07/2025
 
-![Ảnh đại diện của bạn](images/hinhdaidien.jpg)
+![Ảnh đại diện của bạn](https://khanduyn.github.io/AWS-FCAJ-2026/images/anhchandung.jpg)
 
 
 
