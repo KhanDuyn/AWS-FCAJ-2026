@@ -5,10 +5,6 @@ weight : 5
 chapter : false
 pre : " <b> 5.5. </b> "
 ---
-### Trang web demo
-
-[CauLongVui](https://d33wcfjdygo2at.cloudfront.net/)
-
 ### BẢNG ƯỚC TÍNH CHI PHÍ CÁC DỊCH VỤ AWS
 
 #### 1. Nhóm Mạng và Phân phối (Network & Content Delivery)

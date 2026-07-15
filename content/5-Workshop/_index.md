@@ -8,6 +8,8 @@ pre: " <b> 5. </b> "
 
 # Deploying and Configuring a Fullstack Web Application on AWS
 
+[Visit the CauLongVui demo website](https://d33wcfjdygo2at.cloudfront.net/)
+
 #### Overview
 
 In this series of hands-on labs, we will build and deploy a **Fullstack** web application (Static Frontend + Spring Boot Backend + SQL Server Database) on **Amazon Web Services (AWS)**.

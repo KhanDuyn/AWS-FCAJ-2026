@@ -5,10 +5,6 @@ weight : 5
 chapter : false
 pre : " <b> 5.5. </b> "
 ---
-### Demo website
-
-[CauLongVui](https://d33wcfjdygo2at.cloudfront.net/)
-
 ### AWS SERVICES COST ESTIMATION TABLE
 
 #### 1. Network & Content Delivery Group

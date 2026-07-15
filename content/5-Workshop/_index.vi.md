@@ -8,6 +8,8 @@ pre: " <b> 5. </b> "
 
 # Triển khai và cấu hình ứng dụng web fullstack trên AWS
 
+[Truy cập trang web demo CauLongVui](https://d33wcfjdygo2at.cloudfront.net/)
+
 #### Tổng quan
 
 Trong chuỗi bài thực hành này, chúng ta sẽ xây dựng và triển khai một hệ thống web **Fullstack** gồm Frontend tĩnh, Backend Spring Boot và cơ sở dữ liệu SQL Server trên nền tảng **Amazon Web Services (AWS)**.
