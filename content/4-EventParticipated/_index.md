@@ -6,19 +6,12 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-This section documents the technical events, workshops, and community days I have participated in during my internship. These events provided opportunities to learn about modern cloud architectures, artificial intelligence, DevOps automation, and security integration directly from AWS engineers and industry experts.
+This section documents two AWS Study Group community events I attended during my internship. Together, they provided practical perspectives on AWS Cloud, AI, DevOps, security, data-driven AI applications, and professional development in technology.
 
-### [Event 1 - FCAJ Community Day](4.1-Event1/)
+### [Event 1 - FCAJ Community Day (June 27, 2026)](4.1-Event1/)
 
-A community event focused on technology product development, soft skills, and practical applications of Cloud and AI. Key topics included building products from real-world ideas (Tu Vi Dai Viet), developing self-confidence and overcoming psychological barriers, the AWS learning path with Cloud Quest and Floci, analyzing the causes of procrastination from a psychological perspective, and sharing experiences from Hackathon project teams on AI and system development.
+FCAJ Community Day explored how AWS and AI can address real business and operational problems. The sessions covered the CloudThinker mindset and AgenticOps, AI-assisted DevOps incident response, AI-powered productivity for HR workflows with Amazon Q, and building secure private MCP connections for enterprise use of Amazon Q.
 
-### [Event 2 - FCAJ Community Day](4.2-Event2/)
+### [Event 2 - AWS Study Group Meetup (June 6, 2026)](4.2-Event2/)
 
-A community event focused on Cloud, DevOps, AI/ML, networking, and teamwork skills in the technology sector. Key topics included applying Machine Learning combined with AWS WAF for cyberattack detection, Docker technology and containerization in software development, the career path from IT Helpdesk to Sysadmin and Cloud/DevOps, building multiplayer game systems with AWS WebSockets, and principles for optimizing teamwork efficiency in technology projects.
-
-### [Event 3 - FCAJ Community Day](4.3-Event3/)
-
-A community event focused on the latest Cloud and AI technologies on AWS. Key topics included autonomous incident response using the Deep Response Engine, voice AI agents built with Amazon Nova Sonic and Amazon Bedrock, intelligent DevOps assistants, and secure Model Context Protocol (MCP) connections.
-
-
-
+This meetup covered the Cloud/DevOps career path, GraphRAG with Amazon Neptune and Amazon Bedrock, effective teamwork, Docker containerization, AWS WAF combined with Machine Learning for intrusion detection, and multiplayer game architectures using Godot with API Gateway WebSocket, Lambda, and DynamoDB.

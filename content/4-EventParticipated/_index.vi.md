@@ -6,16 +6,12 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-Mục này ghi lại các sự kiện công nghệ, hội thảo và ngày hội cộng đồng mà tôi đã tham gia trong suốt quá trình thực tập. Các sự kiện này mang lại cơ hội học hỏi về kiến trúc đám mây hiện đại, tự động hóa DevOps, trí tuệ nhân tạo và tích hợp bảo mật trực tiếp từ các kỹ sư AWS và chuyên gia trong ngành.
+Mục này ghi lại hai sự kiện cộng đồng của AWS Study Group mà tôi đã tham gia trong quá trình thực tập. Các sự kiện mang lại góc nhìn thực tiễn về AWS Cloud, AI, DevOps, bảo mật, ứng dụng AI dựa trên dữ liệu và định hướng phát triển nghề nghiệp trong lĩnh vực công nghệ.
 
-### [Sự kiện 1 - FCAJ Community Day](4.1-Event1/)
+### [Sự kiện 1 - FCAJ Community Day (27/06/2026)](4.1-Event1/)
 
-Sự kiện cộng đồng tập trung vào các nội dung về phát triển sản phẩm công nghệ, kỹ năng mềm và ứng dụng thực tế của Cloud và AI. Các chủ đề chính bao gồm xây dựng sản phẩm từ ý tưởng thực tế (Tử Vi Đại Việt), phát triển sự tự tin và vượt qua rào cản tâm lý, lộ trình học AWS với Cloud Quest và Floci, phân tích nguyên nhân trì hoãn dưới góc nhìn tâm lý học, cùng các chia sẻ kinh nghiệm từ các đội dự án Hackathon về AI và phát triển hệ thống thực tế.
+FCAJ Community Day khai thác cách AWS và AI có thể giải quyết các bài toán thực tế trong doanh nghiệp và vận hành hệ thống. Nội dung gồm tư duy CloudThinker và AgenticOps, AI hỗ trợ DevOps xử lý sự cố, AI nâng cao năng suất cho quy trình nhân sự với Amazon Q, và xây dựng kết nối MCP riêng tư, bảo mật để sử dụng Amazon Q trong doanh nghiệp.
 
-### [Sự kiện 2 - FCAJ Community Day](4.2-Event2/)
+### [Sự kiện 2 - AWS Study Group Meetup (06/06/2026)](4.2-Event2/)
 
-Sự kiện cộng đồng tập trung vào các chủ đề về Cloud, DevOps, AI/ML, hệ thống mạng và kỹ năng làm việc nhóm trong lĩnh vực công nghệ. Các nội dung chính bao gồm ứng dụng Machine Learning kết hợp AWS WAF để phát hiện tấn công mạng, công nghệ Docker và container hóa trong phát triển phần mềm, hành trình phát triển sự nghiệp từ IT Helpdesk đến Sysadmin và Cloud/DevOps, xây dựng hệ thống game multiplayer với AWS WebSockets, và các nguyên tắc tối ưu hiệu quả làm việc nhóm trong dự án công nghệ.
-
-### [Sự kiện 3 - FCAJ Community Day](4.3-Event3/)
-
-Sự kiện cộng đồng tập trung vào các công nghệ Cloud và AI mới nhất trên AWS. Các chủ đề chính bao gồm tự động xử lý sự cố với Deep Response Engine, trợ lý AI hội thoại (Voice Agents) xây dựng bằng Amazon Nova Sonic và Amazon Bedrock, trợ lý DevOps thông minh, và kết nối Model Context Protocol (MCP) bảo mật.
+Buổi meetup đề cập đến lộ trình nghề nghiệp Cloud/DevOps, GraphRAG với Amazon Neptune và Amazon Bedrock, làm việc nhóm hiệu quả, Docker và containerization, kết hợp AWS WAF với Machine Learning để phát hiện xâm nhập, cùng kiến trúc game multiplayer sử dụng Godot, API Gateway WebSocket, Lambda và DynamoDB.
