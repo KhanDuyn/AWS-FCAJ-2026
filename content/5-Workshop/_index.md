@@ -8,7 +8,7 @@ pre: " <b> 5. </b> "
 
 # Deploying and Configuring a Fullstack Web Application on AWS
 
-[Visit the CauLongVui demo website](https://d33wcfjdygo2at.cloudfront.net/)
+[Visit this link to view the demo of the CauLongVui website](https://drive.google.com/drive/u/0/folders/1XI1mu_dUN5vNOfi7s5rXoBk4oP7qKwcz)
 
 #### Overview
 

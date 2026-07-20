@@ -8,7 +8,7 @@ pre: " <b> 5. </b> "
 
 # Triển khai và cấu hình ứng dụng web fullstack trên AWS
 
-[Truy cập trang web demo CauLongVui](https://d33wcfjdygo2at.cloudfront.net/)
+[Truy cập link này để xem demo web CauLongVui](https://drive.google.com/drive/u/0/folders/1XI1mu_dUN5vNOfi7s5rXoBk4oP7qKwcz)
 
 #### Tổng quan
 
